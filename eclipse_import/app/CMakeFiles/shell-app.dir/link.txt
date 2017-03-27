@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Wpedantic   CMakeFiles/shell-app.dir/main.cpp.o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o  -o shell-app -rdynamic 
