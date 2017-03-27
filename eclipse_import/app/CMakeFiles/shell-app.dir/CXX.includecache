@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/AnalogSensor.hpp
+iostream
+-
+
+/home/viki/Documents/ENPM808X/Week6/ExtraCredit/eclipse/cpp-boilerplate-eclipse/app/AnalogSensor.cpp
+AnalogSensor.hpp
+-
+numeric
+-
+vector
+-
+memory
+-
+
+/home/viki/Documents/ENPM808X/Week6/ExtraCredit/eclipse/cpp-boilerplate-eclipse/app/main.cpp
+iostream
+-
+AnalogSensor.hpp
+-
+
